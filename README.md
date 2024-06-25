@@ -6,5 +6,3 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pompom_33)](https://solved.ac/pompom_33)
-
-![Static Badge](https://img.shields.io/badge/python)
