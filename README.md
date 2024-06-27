@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=테스트%20중입니다&fontColor=00000&fontSize=50)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpompom33&count_bg=%23F8D6CF&title_bg=%23DBCBCB&icon=snapchat.svg&icon_color=%23857F84&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=000000&text=유나의%20깃허브%20입니다&fontColor=919497&fontAlignY=50&fontSize=55&section=header)
 ![pompom33's GitHub stats](https://github-readme-stats.vercel.app/api?username=pompom33&theme=dracula_icons=true)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pompom_33)](https://solved.ac/pompom_33)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YUNA_030?theme=wtf&font=Khula)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pompom_33)](https://solved.ac/pompom_33)
