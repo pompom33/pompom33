@@ -6,3 +6,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pompom_33)](https://solved.ac/pompom_33)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YUNA_03a0?theme=wtf&font=Khula&ext=contest)
