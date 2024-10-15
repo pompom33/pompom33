@@ -3,6 +3,9 @@
 
 ### SKILL SETS
 ![gg](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ECD53F)
+![gg](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![gg](https://img.shields.io/badge/googlebigquery-669DF6.svg?&style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF)
+
 
 ### PROJECTS
 |Project Name|Repository|Velog(프로젝트 상세 보기)|
