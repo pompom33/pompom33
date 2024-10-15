@@ -5,11 +5,11 @@
 ![gg](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ECD53F)
 
 ### PROJECTS
-|제목|간단한 소개|레파지토리|
+|프로젝트|레파지토리|Velog|
 |------|----|---|
-|테스트1|
-|테스트1|
-|테스트1|
+|🍗랭킹닭컴 텍스트 리뷰 분석을 통한 브랜드 키워드 파악| [RankingDakcom](github.com/pompom33/RankingDakcom) |[Velog](https://velog.io/@pompom_33/%EB%9E%AD%ED%82%B9%EB%8B%AD%EC%BB%B4-%EC%A0%9C%ED%92%88-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D)|
+|테스트1|dfdfd|dfd|
+|테스트1|dfdf|dfdf|
 
 ![pompom33's GitHub stats](https://github-readme-stats.vercel.app/api?username=pompom33&theme=dracula_icons=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YUNA_030?theme=wtf&font=Khula)
