@@ -2,9 +2,11 @@
 광고 도메인과 콘텐츠 기획의 전문성을 갖춘 데이터 분석가입니다.
 
 ### SKILL SETS
-![gg](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ECD53F)
-![gg](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![gg](https://img.shields.io/badge/googlebigquery-669DF6.svg?&style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF)
+![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ECD53F)
+![bigquery](https://img.shields.io/badge/googlebigquery-669DF6.svg?&style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=FFFFFF)
+![streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
 
 
 ### PROJECTS
