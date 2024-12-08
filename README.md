@@ -1,7 +1,7 @@
 ## 👋Hi there!
 광고 도메인과 콘텐츠 기획의 전문성을 갖춘 데이터 분석가입니다.
 
-### SKILL SETS
+## SKILL SETS
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ECD53F)
 ![bigquery](https://img.shields.io/badge/googlebigquery-669DF6.svg?&style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
@@ -9,7 +9,7 @@
 ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
 
 
-### PROJECTS
+## PROJECTS
 |Project Name|Repository|Velog(프로젝트 상세 보기)|
 |------|----|---|
 |🍗랭킹닭컴 텍스트 리뷰 분석을 통한 브랜드 키워드 파악| [RankingDakcom](https://github.com/pompom33/RankingDakcom)|[Velog](https://velog.io/@pompom_33/%EB%9E%AD%ED%82%B9%EB%8B%AD%EC%BB%B4-%EC%A0%9C%ED%92%88-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D)|
