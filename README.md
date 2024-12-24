@@ -9,7 +9,6 @@
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=FFFFFF)
 ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
 
-
 ## PROJECTS
 |Project Name|Repository|Velog(프로젝트 상세 보기)|
 |------|----|---|
@@ -19,6 +18,6 @@
 |🍪CookieCats AB테스트 데이터 분석|[CookieCats](https://github.com/pompom33/CookieCats)|[Velog](https://velog.io/@pompom_33/Cookie-Cats-AB-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%B0%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)
 
 
-## ACHIEVMENTS
+## ACHIEVEMENTS
 ![pompom33's GitHub stats](https://github-readme-stats.vercel.app/api?username=pompom33&theme=dracula_icons=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YUNA_030?theme=wtf&font=Khula)
