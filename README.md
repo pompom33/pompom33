@@ -1,15 +1,20 @@
 ## 👋Hi there!
-광고 도메인과 콘텐츠 기획의 전문성을 갖춘 데이터 분석가입니다.
+**광고 도메인과 콘텐츠 기획의 전문성을 갖춘 데이터 분석가입니다.** </br>
+
+카드뉴스(Instagram) 및 브런치(Brunchstory) **콘텐츠 운영**을 하고 있으며,</br>
+광고 회사에서 **광고 데이터 구조화 및 전처리 업무**를 담당하였습니다.</br>
 
 
-## SKILL SETS
+## 🛠SKILL SETS
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ECD53F)
 ![bigquery](https://img.shields.io/badge/googlebigquery-669DF6.svg?&style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=FFFFFF)
-![streamlit](https://img.shields.io/badge/streamlit-FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=FFFFFF)
 
-## PROJECTS
+## 💽PROJECTS (진행중)
+|Project Name|Repository|Velog(프로젝트 상세 보기)|
+|------|----|---|
+|🚲 따릉이 재배치 최적화 경로 설정 서비스| [ddareuwang](https://github.com/Public-BIke-Project/ddareuwang)| (작성중입니다아..🖋) |
+## 💽PROJECTS (완료)
 |Project Name|Repository|Velog(프로젝트 상세 보기)|
 |------|----|---|
 |🍗랭킹닭컴 텍스트 리뷰 분석을 통한 브랜드 키워드 파악| [RankingDakcom](https://github.com/pompom33/RankingDakcom)|[Velog](https://velog.io/@pompom_33/%EB%9E%AD%ED%82%B9%EB%8B%AD%EC%BB%B4-%EC%A0%9C%ED%92%88-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D)|
@@ -18,6 +23,6 @@
 |🍪CookieCats AB테스트 데이터 분석|[CookieCats](https://github.com/pompom33/CookieCats)|[Velog](https://velog.io/@pompom_33/Cookie-Cats-AB-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%B0%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)
 
 
-## ACHIEVEMENTS
+## ✨ACHIEVEMENTS
 ![pompom33's GitHub stats](https://github-readme-stats.vercel.app/api?username=pompom33&theme=dracula_icons=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YUNA_030?theme=wtf&font=Khula)
