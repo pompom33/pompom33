@@ -13,9 +13,9 @@
 </br>
 
 ## 💽PROJECTS (진행중)
-|Project Name|Repository|Velog(프로젝트 상세 보기)|
-|------|----|---|
-|🚲 따릉이 재배치 최적화 경로 설정 서비스| [ddareuwang](https://github.com/Public-BIke-Project/ddareuwang)| (작성중입니다아..🖋) |
+|Project Name|Repository|
+|------|----|
+|🚲 따릉이 재배치 최적화 경로 설정 서비스| [ddareuwang](https://github.com/Public-BIke-Project/ddareuwang)|
 
 ## 💽PROJECTS (완료)
 |Project Name|Repository|Velog(프로젝트 상세 보기)|
