@@ -1,14 +1,16 @@
 ## 👋Hi there!
-**광고 도메인과 콘텐츠 기획의 전문성을 갖춘 데이터 분석가입니다.** </br>
+**광고 도메인 지식과 데이터 분석력을 갖춘 백엔드 개발자 "안유나"입니다.** </br>
 
-카드뉴스(Instagram) 및 브런치(Brunchstory) **콘텐츠 운영**을 하고 있으며,</br>
-광고 회사에서 **광고 데이터 구조화 및 전처리 업무**를 담당하였습니다.</br>
+카드뉴스(Instagram) 및 브런치(Brunchstory) **콘텐츠 운영**을 하고 있으며, 광고 회사에서 **광고 데이터 구조화 및 전처리 업무**를 담당하였습니다.</br>
 </br>
 
 ## 🛠SKILL SETS
 ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ECD53F)
-![bigquery](https://img.shields.io/badge/googlebigquery-669DF6.svg?&style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![bigquery](https://img.shields.io/badge/googlebigquery-669DF6.svg?&style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF)
+![googlecloud](https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
+![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=FFFFFF)
 
 </br>
 
@@ -27,5 +29,9 @@
 </br>
 
 ## ✨ACHIEVEMENTS
-![pompom33's GitHub stats](https://github-readme-stats.vercel.app/api?username=pompom33&theme=dracula_icons=true)
-![LeetCode Stats](https://leetcard.jacoblin.cool/YUNA_030?theme=wtf&font=Khula)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pompom33&theme=dracula_icons=true" alt="GitHub stats" width="400" height="200" />
+  <img src="https://leetcard.jacoblin.cool/YUNA_030?theme=wtf&font=Khula" alt="LeetCode Stats" width="400" height="200" style="margin-left:20px;" />
+</div>
+
+
