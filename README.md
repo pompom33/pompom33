@@ -1,8 +1,6 @@
 ## 👋Hi there!
-**광고 도메인 지식을 갖춘 백엔드 개발자 안유나입니다.** </br>
-
-광고 회사에서 **AI 학습 및 품질관리**를 담당하였습니다.</br>
-유저의 pain point를 포착하고 효율화할 수 있는 방법을 강구합니다. </br>
+**데이터 분석가 안유나입니다.** </br>
+interests in **Medical/Healthcare** </br>
 </br>
 
 ## 🛠SKILL SETS
