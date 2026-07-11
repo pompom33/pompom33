@@ -1,6 +1,6 @@
 ## 👋Hi there!
 **데이터 분석가 안유나입니다.** </br>
-interests in **Medical/Healthcare** </br>
+interests in **Medical/Healthcare Planning** </br>
 </br>
 
 ## 🛠SKILL SETS
